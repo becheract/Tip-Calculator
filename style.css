@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#price{
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+#tipPrecentage{
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+#numofPeople{
+    margin: 10px;
+    padding: 10px;
+}
